@@ -1,4 +1,1 @@
-times do
-$x = 1
-puts "#$x"
-end
+x,y = 1,2
